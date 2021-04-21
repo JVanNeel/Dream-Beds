@@ -1,0 +1,49 @@
+
+
+
+* {box-sizing:border-box}
+
+
+
+body{
+	margin: 0;
+	background: url(.jpg);
+	background-color: #cccccc;
+ 	width: ;
+  background-position: left ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: ;
+}
+
+ul li a{
+	text-decoration: none;
+	padding: 24px 24px;
+	color:#2035a8;
+	margin-right: 130px;
+
+
+}
+ul li a:hover{
+	text-decoration: none;
+	background-color: white;
+	color:#02ff00;
+	padding: 24px 24px;
+}
+
+
+ul{
+	float:right;
+	list-style: none;
+	display: inline;
+	margin-right: 150px;
+}
+
+li{
+	display: inline-block;
+	font-family: Cursive;
+	font-weight: bold;
+	margin-top: 30px;
+
+
+}
